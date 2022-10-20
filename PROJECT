@@ -1,0 +1,6 @@
+domain: sinoa.jp
+layout:
+- go.kubebuilder.io/v3
+projectName: markdown-view
+repo: github.com/frauniki/markdown-view
+version: "3"
